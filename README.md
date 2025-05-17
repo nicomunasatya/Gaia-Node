@@ -71,4 +71,16 @@ Azure/AWS	Nvidia T4 GPU Instance
   ```
   gaianet stop
   ```
+   - After get your node id and device id fill in the [Gaia Settings Node](https://www.gaianet.ai/setting/nodes), Create a new node and fill it
+    
+     if you haven't login in gaia you can login with your testnet wallet OKX or metamask
+
+     ![setting node](https://raw.githubusercontent.com/nicomunasatya/Gaia-Node/main/setting%20node.png)
+
+     ![add node](https://raw.githubusercontent.com/nicomunasatya/Gaia-Node/main/add%20node.png)
+
+   - Check Your [Rewards Summary](https://www.gaianet.ai/reward-summary)
+     
+     ![add node](https://raw.githubusercontent.com/nicomunasatya/Gaia-Node/main/check%20gaia%20exp.png)
+     
    
